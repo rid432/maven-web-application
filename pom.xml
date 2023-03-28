@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.4</version> 
+	<version>0.0.3</version> 
 	
 	<name>maven-web-application</name>
 
@@ -22,9 +22,8 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http:172.31.30.35:9000/</sonar.host.url>
-		<sonar.login>admin</sonar.login>
-		<sonar.password>admin</sonar.password> 
+		<sonar.host.url>http:172.31.31.192:9000/</sonar.host.url>
+		<sonar.login>9a5f04ef4adc9c41544f33d1698a75bfb416077a</sonar.login> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
@@ -95,13 +94,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.31.59:8081/mynexuspath/repository/benz-release/</url>
+	      <url>http://18.224.107.252:8081/nexus/repository/tesla-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.31.59:8081/mynexuspath/repository/benz-web-snapshot/</url>
+	      <url>http://18.224.107.252:8081/nexus/repository/tesla-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
