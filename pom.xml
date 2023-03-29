@@ -106,7 +106,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>tesla4</finalName>
 		
 		<plugins>
 			<plugin>
