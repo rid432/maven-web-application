@@ -14,7 +14,7 @@
 
 	<organization>
 		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<url>http://riddy.com/</url>
 	</organization>
 
 	<properties>
@@ -106,7 +106,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla9</finalName>
+		<finalName>tesla10</finalName>
 		
 		<plugins>
 			<plugin>
