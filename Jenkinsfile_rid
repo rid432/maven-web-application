@@ -16,7 +16,7 @@ node{
    sh "${mavenHome}/bin/mvn deploy"
  }
   stage('5deploy2UAT'){
-   deploy adapters: [tomcat9(credentialsId: 'tomcat', path: '', url: 'http://13.58.4.192:8080/')], contextPath: null, war: 'target/*.war' 
+   deploy adapters: [tomcat9(credentialsId: 'tomcat', path: '', url: 'http://3.15.183.239:8080/')], contextPath: null, war: 'target/*.war' 
 }
  stage('6Manualapproval'){
     sh "echo 'ready for review' "
