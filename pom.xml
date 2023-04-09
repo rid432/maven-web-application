@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.8-SNAPSHOT</version> 
+	<version>0.0.8</version> 
 	
 	<name>maven-web-application</name>
 
@@ -106,7 +106,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla12</finalName>
+		<finalName>tesla13</finalName>
 		
 		<plugins>
 			<plugin>
