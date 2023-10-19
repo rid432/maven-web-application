@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to Tesla-20v2 Web.. application Project30 automation.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions for millions of clients globally.
 	           We are raising millionaires in IT automation...We move and we thrive.... Triggers!!!.. built by Maven
-	We offer 7777 Training for DevOps with Linux and Cloud equipping IT Engineers for best performance, going forward....</h1>
+	We offer 77077 Training for DevOps with Linux and Cloud equipping IT Engineers for best performance, going forward....</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
