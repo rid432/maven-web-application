@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>3.1.2</version> 
+	<version>3.1.2-SNAPSHOT</version> 
 	
 	<name>maven-web-application</name>
 
@@ -106,7 +106,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>paypal</finalName>
+		<finalName>paypal-snap</finalName>
 		
 		<plugins>
 			<plugin>
