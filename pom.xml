@@ -106,7 +106,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>paypal-snap</finalName>
+		<finalName>paypalsnap</finalName>
 		
 		<plugins>
 			<plugin>
