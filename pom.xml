@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>3.1.4</version> 
+	<version>3.1.5</version> 
 	
 	<name>maven-web-application</name>
 
@@ -106,7 +106,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>paypal-war</finalName>
+		<finalName>telsa</finalName>
 		
 		<plugins>
 			<plugin>
